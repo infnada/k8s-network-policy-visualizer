@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.22.9",
-    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-env": "^7.28.0",
     "@babel/preset-react": "^7.22.5",
     "@tailwindcss/postcss": "^4.1.7",
     "autoprefixer": "^10.4.21",
